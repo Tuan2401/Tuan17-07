@@ -1,5 +1,5 @@
 Mục tiêu:
-        Xây dựng một ứng dụng web có khả năng:
+Xây dựng một ứng dụng web có khả năng:
         
         Mã hóa file dữ liệu với thuật toán AES.
         
@@ -12,26 +12,26 @@ Mục tiêu:
         Cung cấp giao diện thân thiện, chuyên nghiệp bằng Bootstrap.
 
 Các chức năng chính:
-        Chức năng	                        Mô tả
+        Chức năng	                     Mô tả
         
         Upload file	                      Người dùng chọn file từ máy và tải lên trang web.
         
-        Nhập khóa	                        Người dùng nhập chuỗi bất kỳ để làm khóa mã hóa/giải mã.
+        Nhập khóa	                      Người dùng nhập chuỗi bất kỳ để làm khóa mã hóa/giải mã.
         
-        Mã hóa file                      	Dùng AES (EAX mode) để mã hóa nội dung file với khóa đã xử lý.
+        Mã hóa file                           Dùng AES (EAX mode) để mã hóa nội dung file với khóa đã xử lý.
         
-        Giải mã file	                    Dùng AES để giải mã file đã mã hóa trước đó.
+        Giải mã file	                      Dùng AES để giải mã file đã mã hóa trước đó.
         
         Tải kết quả	                      Sau khi xử lý, cung cấp liên kết tải file kết quả về.
  TỔNG KẾT
-        Thành phần	                        Công nghệ sử dụng
+        Thành phần	                     Công nghệ sử dụng
         
         Backend	                              Python (Flask)
         
         Mã hóa	                              PyCryptodome (AES EAX)
         
-        Hash key	                            hashlib (SHA-256)
+        Hash key	                      hashlib (SHA-256)
         
-        Giao diện	                            HTML + Bootstrap 5
+        Giao diện	                      HTML + Bootstrap 5
         
-        Tính năng	                            Upload, Mã hóa, Giải mã, Tải xuống
+        Tính năng	                      Upload, Mã hóa, Giải mã, Tải xuống
