@@ -23,6 +23,10 @@ Các chức năng chính:
         Giải mã file	                      Dùng AES để giải mã file đã mã hóa trước đó.
         
         Tải kết quả	                      Sau khi xử lý, cung cấp liên kết tải file kết quả về.
+
+![image](https://github.com/user-attachments/assets/46b3d9aa-2356-460a-bd3b-e4bdc7f7c38d)
+
+
  TỔNG KẾT
         Thành phần	                     Công nghệ sử dụng
         
